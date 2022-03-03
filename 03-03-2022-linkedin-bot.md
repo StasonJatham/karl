@@ -6,7 +6,6 @@ layout: post
 
 _yay_
 
-{% include post.html %}
 
 
 [back](./)
