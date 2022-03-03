@@ -1,3 +1,7 @@
+{% include post.html %}
+
+{{ content }}
+
 ---
 layout: post
 ---
