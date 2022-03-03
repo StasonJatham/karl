@@ -2,11 +2,9 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
-[Link to page](./03-03-2022-linkedin-bot.html).
-
 
 There should be whitespace between paragraphs.
 
